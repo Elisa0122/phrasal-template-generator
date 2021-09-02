@@ -18,9 +18,9 @@ if (story=='a'){
 };
 
 if (story == 'b') {
-  document.write(escaping)
+  document.write(escaping);
 };
 
 if (story == 'c') {
-  document.write(winnipeg)
+  document.write(winnipeg);
 };
