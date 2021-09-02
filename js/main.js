@@ -14,7 +14,7 @@ var snacking = `After snacking on ${adjective} treats, the ${colour} bellied ${c
 var escaping = `Amelia ${verbed} through the ${adjective} ${colour} nebula escaping the space ${creature}.`;
 var winnipeg = `Jackson chose his ${adjective}, ${colour} ${creature} card and ${verbed} it to the table knowing he won.`;
 
-if (story =='a') {
+if (story == 'a') {
   document.write(snacking);
 };
 
